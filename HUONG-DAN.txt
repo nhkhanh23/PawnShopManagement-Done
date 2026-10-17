@@ -1,0 +1,1 @@
+﻿Code → Download ZIP → Extract All → mở Chay-ung-dung.cmd. Windows 10/11 64-bit. Không cần cài SDK, Runtime hoặc SQL Server. Giữ nguyên Runtime-goi, chờ chuẩn bị lần đầu rồi web tự mở. Xem README.md.

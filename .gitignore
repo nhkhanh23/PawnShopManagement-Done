@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+**/App_Data/
+**/.vs/
+.vs/
+Application/
+Ban-chay/
+Ket-qua-kiem-tra/
+.runtime-*.zip
+*.user
+*.db
+*.db-wal
+*.db-shm

@@ -1,0 +1,16 @@
+PASS fresh Windows x64 A: clean package has no accounts or database
+PASS Published EXE starts without dotnet in PATH or DOTNET_ROOT
+PASS Fresh published package opens first-admin setup
+PASS Admin can register using the published EXE
+PASS Published EXE login and contract dashboard work
+PASS Customer can be created in the packaged app
+PASS Published app REST API creates a contract with pawn term
+PASS Published SQLite app executes overdue filtering
+PASS Dashboard renders saved contract and decimal totals
+PASS Database file is created beside the packaged application
+PASS Published EXE starts without dotnet in PATH or DOTNET_ROOT
+PASS Restart opens login instead of resetting admin
+PASS Admin and contracts survive a full EXE process restart
+PASS fresh Windows x64 B: clean package has no accounts or database
+PASS Published EXE starts without dotnet in PATH or DOTNET_ROOT
+PASS A second fresh extraction has its own empty database

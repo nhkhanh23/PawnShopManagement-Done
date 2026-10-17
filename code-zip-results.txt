@@ -1,0 +1,2 @@
+PASS Code-style ZIP extraction -> double-click CMD -> automatic preparation -> working admin setup and CSS, without installed dotnet in PATH
+PASS Second CMD launch reuses the prepared runtime without repeating extraction
